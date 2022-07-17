@@ -1,0 +1,2 @@
+Create a separate file for constant variables
+lets create our homepage now
